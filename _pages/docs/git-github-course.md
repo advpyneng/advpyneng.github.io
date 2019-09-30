@@ -13,17 +13,17 @@ excerpt: "Git and GitHub"
 
 Для выполнения заданий на курсе надо выполнить по очереди инструкции/прочитать руководства:
 
-1. [Разобраться с основами Git](https://pyneng.github.io/docs/git-basics/)
-2. [Выполнить базовую настройку Git и GitHub](https://pyneng.github.io/docs/git-github-setup/)
-3. [Разобраться как добавлять изменения в Git/GitHub](https://pyneng.github.io/docs/git-github/)
+1. [Разобраться с основами Git](https://advpyneng.github.io/docs/git-basics/)
+2. [Выполнить базовую настройку Git и GitHub](https://advpyneng.github.io/docs/git-github-setup/)
+3. [Разобраться как добавлять изменения в Git/GitHub](https://advpyneng.github.io/docs/git-github/)
 
 Кроме того, надо разобраться с тем как сдавать задания на проверку:
 
-* [Сдача задания на проверку](https://pyneng.github.io/docs/task-check/)
+* [Сдача задания на проверку](https://advpyneng.github.io/docs/task-check/)
 
 Как посмотреть проверенные задания:
 
-* [на github](https://pyneng.github.io/docs/task-check-github/)
-* [в командной строке](https://pyneng.github.io/docs/checked-tasks-git/)
+* [на github](https://advpyneng.github.io/docs/task-check-github/)
+* [в командной строке](https://advpyneng.github.io/docs/checked-tasks-git/)
 
 
