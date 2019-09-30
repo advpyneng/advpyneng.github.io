@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Курс"
-    url: /docs/course/
+    url: /course/
 #  - title: "Выпускники"
 #    url: /alumni/
 #  - title: "Отзывы"
@@ -14,7 +14,7 @@ docs:
   - title: Основные ресурсы
     children:
       - title: "Программа курса"
-        url: /docs/course/
+        url: /course/
       - title: Календарь
         url: /calendar/
       - title: Задания
