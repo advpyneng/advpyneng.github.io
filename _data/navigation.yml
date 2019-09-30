@@ -2,8 +2,8 @@
 main:
   - title: "Курс"
     url: /docs/course/
-  - title: "Выпускники"
-    url: /alumni/
+#  - title: "Выпускники"
+#    url: /alumni/
 #  - title: "Отзывы"
 #    url: /testimonials/
   - title: "Записаться на курс"
