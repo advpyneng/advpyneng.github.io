@@ -17,12 +17,10 @@ docs:
         url: /course/
       - title: Календарь
         url: /calendar/
-      - title: Задания
-        url: /docs/tasks/
+#      - title: Задания
+#        url: /docs/tasks/
       - title: Как учиться
         url: /docs/learning/
-      - title: Вопросы
-        url: /quiz/
   - title: Инструменты
     children:
       - title: Работа с Git и GitHub
