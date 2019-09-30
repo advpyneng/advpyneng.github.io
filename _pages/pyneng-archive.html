@@ -1,0 +1,17 @@
+---
+layout: archive
+permalink: /pyneng-archive/
+title: "Online 2"
+---
+
+{% for post in site.posts %}
+  {% capture month %}{{ post.date | date: '%m' }}{% endcapture %}
+  {% capture day %}{{ post.date | date: '%d' }}{% endcapture %}
+  {% if month <= '07' %}
+  {% include archive-single.html %}
+  {% endif %}
+  {% if month == '08' and day <= '14'%}
+  {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
