@@ -26,7 +26,7 @@ category:
 
 На курсе будет использоваться Git и Github в той же схеме, что была на базовом курсе.
 Если так получилось, что после курса вы долго не использовали Git/GitHub, желательно, перечитать разделы [в книге](https://pyneng.readthedocs.io/ru/latest/book/02_git_github/index.html),
-а также просмотреть инструкции по сдаче заданий на проверку](https://advpyneng.github.io/docs/task-check/).
+а также просмотреть инструкции по [сдаче заданий на проверку](https://advpyneng.github.io/docs/task-check/).
 
 
 ### Сайт курса
