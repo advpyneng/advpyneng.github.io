@@ -8,8 +8,8 @@ main:
 #    url: /testimonials/
   - title: "Записаться на курс"
     url: https://natenka.github.io/advanced-pyneng-online/
-  - title: "Преподаватель"
-    url: /about/
+#  - title: "Преподаватель"
+#    url: /about/
 docs:
   - title: Основные ресурсы
     children:
