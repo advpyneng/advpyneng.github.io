@@ -13,17 +13,23 @@ permalink: /course/
     <th align="center">Лекция</th>
     <th align="center">Дата</th>
     <th align="center">Тема (длительность лекции)</th>
+    <th align="center">Всего заданий</th>
+    <th align="center">Минимум заданий для сертификата</th>
  </tr>
  <tr>
     <td rowspan="2" align="center">1</td>
     <td align="center">1</td>
     <td align="center">05.10.19</td>
     <td>ООП. Обзор основ (3ч)</td>
+    <td align="center">1.1, 1.2, 2.1, 2.2</td>
+    <td align="center">1.1, 1.2, 2.1, 2.2</td>
  </tr>
  <tr>
     <td align="center">2</td>
     <td align="center">06.10.19</td>
     <td>ООП. classmethod, staticmethod, property (3ч)</td>
+    <td align="center">3.1, 3.1a, 3.2, 3.3</td>
+    <td align="center">3.1, 3.1a, 3.2</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">2</td>
