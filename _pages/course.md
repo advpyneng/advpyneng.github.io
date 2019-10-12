@@ -36,8 +36,8 @@ permalink: /course/
     <td align="center">3</td>
     <td align="center">12.10.19</td>
     <td>ООП. Наследование, ABC (3ч)</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">4.1 4.1a 4.2 4.3 4.3a 4.4 4.5</td>
+    <td align="center">4.1 4.3 4.4</td>
  </tr>
  <tr>
     <td align="center">4</td>
