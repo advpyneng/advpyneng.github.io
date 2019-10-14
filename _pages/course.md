@@ -21,15 +21,15 @@ permalink: /course/
     <td align="center">1</td>
     <td align="center">05.10.19</td>
     <td><a href="https://advpyneng.github.io/advpyneng-1/lecture-01/">ООП. Обзор основ (3ч)</a></td>
-    <td align="center">1.1, 1.2, 2.1, 2.2</td>
-    <td align="center">1.1, 1.2, 2.1, 2.2</td>
+    <td align="center">1.1 1.2 2.1 2.2</td>
+    <td align="center">1.1 1.2 2.1 2.2</td>
  </tr>
  <tr>
     <td align="center">2</td>
     <td align="center">06.10.19</td>
     <td><a href="https://advpyneng.github.io/advpyneng-1/lecture-02/">ООП. classmethod, staticmethod, property (3ч)</a></td>
-    <td align="center">3.1, 3.1a, 3.2, 3.3</td>
-    <td align="center">3.1, 3.1a, 3.2</td>
+    <td align="center">3.1 3.1a 3.2 3.3</td>
+    <td align="center">3.1 3.1a 3.2</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">2</td>
@@ -43,8 +43,8 @@ permalink: /course/
     <td align="center">4</td>
     <td align="center">13.10.19</td>
     <td><a href="https://advpyneng.github.io/advpyneng-1/lecture-04/">ООП Data classes (3ч)</a></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">5.1 5.2 5.3 5.4</td>
+    <td align="center">5.1 5.2 5.3</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">3</td>
