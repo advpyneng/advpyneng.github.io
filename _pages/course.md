@@ -50,16 +50,16 @@ permalink: /course/
     <td rowspan="2" align="center">3</td>
     <td align="center">5</td>
     <td align="center">19.10.19</td>
-    <td>Closure (3ч)</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td><a href="https://advpyneng.github.io/advpyneng-1/lecture-05/">Closure и основы декораторов (3ч)</a></td>
+    <td align="center">6.1, 6.2, 6.2a, 6.3, 7.1, 7.2, 7.3</td>
+    <td align="center">6.1, 6.2, 6.3, 7.1, 7.2</td>
  </tr>
  <tr>
     <td align="center">6</td>
     <td align="center">20.10.19</td>
     <td>Декораторы (3ч)</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">7.1, 7.2, 7.3, 7.4, 7.4a, 7.5, 7.5a</td>
+    <td align="center">7.1, 7.2, 7.4, 7.4a</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">4</td>
