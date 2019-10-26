@@ -65,9 +65,9 @@ permalink: /course/
     <td rowspan="2" align="center">4</td>
     <td align="center">7</td>
     <td align="center">26.10.19</td>
-    <td>Генераторы (3ч)</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td><a href="https://advpyneng.github.io/advpyneng-1/lecture-07/">Генераторы (3ч)</a></td>
+    <td align="center">8.1, 8.1a, 8.1b, 8.2, 8.3, 8.4</td>
+    <td align="center">8.1, 8.1a, 8.2, 8.4</td>
  </tr>
  <tr>
     <td align="center">8</td>
