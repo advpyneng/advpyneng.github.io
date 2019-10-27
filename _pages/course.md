@@ -72,9 +72,9 @@ permalink: /course/
  <tr>
     <td align="center">8</td>
     <td align="center">27.10.19</td>
-    <td>Модули itertools, more-itertools (3ч)</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td><a href="https://advpyneng.github.io/advpyneng-1/lecture-08/">Модули itertools, more-itertools (3ч)</a></td>
+    <td align="center">-</td>
+    <td align="center">-</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">5</td>
