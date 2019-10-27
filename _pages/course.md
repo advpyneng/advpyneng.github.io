@@ -72,7 +72,7 @@ permalink: /course/
  <tr>
     <td align="center">8</td>
     <td align="center">27.10.19</td>
-    <td>Модули itertools, collections (3ч)</td>
+    <td>Модули itertools, more-itertools (3ч)</td>
     <td align="center"></td>
     <td align="center"></td>
  </tr>
