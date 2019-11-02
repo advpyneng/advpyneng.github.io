@@ -80,9 +80,9 @@ permalink: /course/
     <td rowspan="2" align="center">5</td>
     <td align="center">9</td>
     <td align="center">02.11.19</td>
-    <td>Asyncio. Основы (3ч)</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td><a href="https://advpyneng.github.io/advpyneng-1/lecture-09/">Asyncio. Основы (3ч)</a></td>
+    <td align="center">-</td>
+    <td align="center">-</td>
  </tr>
  <tr>
     <td align="center">10</td>
