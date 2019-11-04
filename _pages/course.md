@@ -88,8 +88,8 @@ permalink: /course/
     <td align="center">10</td>
     <td align="center">03.11.19</td>
     <td><a href="https://advpyneng.github.io/advpyneng-1/lecture-10/">Модули async (3ч)</a></td>
-    <td align="center">11.1, 11.2, 11.3, ...</td>
-    <td align="center">11.1, 11.2, ...</td>
+    <td align="center">11.1, 11.2, 11.3, 11.4, 11.5, 11.5a</td>
+    <td align="center">11.1, 11.2, 11.3</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">6</td>
