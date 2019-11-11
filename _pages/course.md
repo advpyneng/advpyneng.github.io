@@ -95,16 +95,16 @@ permalink: /course/
     <td rowspan="2" align="center">6</td>
     <td align="center">11</td>
     <td align="center">09.11.19</td>
-    <td>Модуль netdev (3ч)</td>
+    <td>Использование asyncio (3ч)</td>
     <td align="center"></td>
     <td align="center"></td>
  </tr>
  <tr>
     <td align="center">12</td>
     <td align="center">10.11.19</td>
-    <td>Модули aiohttp, aiofiles (3ч)</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td>Использование asyncio (3ч)</td>
+    <td align="center">12.1, 12.2, 12.3, 12.4, 12.5</td>
+    <td align="center">12.1, 12.2, 12.4</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">7</td>
