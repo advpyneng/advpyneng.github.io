@@ -111,8 +111,8 @@ permalink: /course/
     <td align="center">13</td>
     <td align="center">16.11.19</td>
     <td>Основы pytest (3ч)</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">14.1, 14.2, 14.3</td>
+    <td align="center">14.1, 14.2, 14.3</td>
  </tr>
  <tr>
     <td align="center">14</td>
