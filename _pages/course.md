@@ -118,8 +118,8 @@ permalink: /course/
     <td align="center">14</td>
     <td align="center">17.11.19</td>
     <td>Модуль logging (3ч)</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">-</td>
+    <td align="center">-</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">8</td>
