@@ -73,16 +73,16 @@ permalink: /course/
     <td align="center">8</td>
     <td align="center">27.10.19</td>
     <td><a href="https://advpyneng.github.io/advpyneng-1/lecture-08/">Модули itertools, more-itertools (3ч)</a></td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center">--</td>
+    <td align="center">--</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">5</td>
     <td align="center">9</td>
     <td align="center">02.11.19</td>
     <td><a href="https://advpyneng.github.io/advpyneng-1/lecture-09/">Asyncio. Основы (3ч)</a></td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center">--</td>
+    <td align="center">--</td>
  </tr>
  <tr>
     <td align="center">10</td>
@@ -96,8 +96,8 @@ permalink: /course/
     <td align="center">11</td>
     <td align="center">09.11.19</td>
     <td>Использование asyncio (3ч)</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center">--</td>
+    <td align="center">--</td>
  </tr>
  <tr>
     <td align="center">12</td>
@@ -118,23 +118,23 @@ permalink: /course/
     <td align="center">14</td>
     <td align="center">17.11.19</td>
     <td>Модуль logging (3ч)</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center">--</td>
+    <td align="center">--</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">8</td>
     <td align="center">15</td>
     <td align="center">23.11.19</td>
     <td>Основы аннотации типов (3ч)</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">16.1, 16.2, 16.3</td>
+    <td align="center">16.1, 16.2, 16.3</td>
  </tr>
  <tr>
     <td align="center">16</td>
     <td align="center">24.11.19</td>
     <td>Автоматическое форматирование кода (2ч)</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">--</td>
+    <td align="center">--</td>
  </tr>
  <tr>
     <td align="center">9</td>
