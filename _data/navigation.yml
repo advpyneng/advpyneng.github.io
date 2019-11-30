@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Курс"
-    url: /course/
   - title: "Выпускники"
     url: /alumni/
   - title: "Отзывы"
