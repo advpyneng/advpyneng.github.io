@@ -95,14 +95,14 @@ permalink: /course/
     <td rowspan="2" align="center">6</td>
     <td align="center">11</td>
     <td align="center">09.11.19</td>
-    <td>Использование asyncio (3ч)</td>
+    <td><a href="https://advpyneng.github.io/advpyneng-1/lecture-11/">Использование asyncio (3ч)</a></td>
     <td align="center">--</td>
     <td align="center">--</td>
  </tr>
  <tr>
     <td align="center">12</td>
     <td align="center">10.11.19</td>
-    <td>Использование asyncio (3ч)</td>
+    <td><a href="https://advpyneng.github.io/advpyneng-1/lecture-12/">Использование asyncio (3ч)</a></td>
     <td align="center">12.1, 12.2, 12.3, 12.4, 12.5, 12.6</td>
     <td align="center">12.1, 12.2, 12.4</td>
  </tr>
@@ -110,14 +110,14 @@ permalink: /course/
     <td rowspan="2" align="center">7</td>
     <td align="center">13</td>
     <td align="center">16.11.19</td>
-    <td>Основы pytest (3ч)</td>
+    <td><a href="https://advpyneng.github.io/advpyneng-1/lecture-13/">Основы pytest (3ч)</a></td>
     <td align="center">14.1, 14.2, 14.3</td>
     <td align="center">14.1, 14.2, 14.3</td>
  </tr>
  <tr>
     <td align="center">14</td>
     <td align="center">17.11.19</td>
-    <td>Модуль logging (3ч)</td>
+    <td><a href="https://advpyneng.github.io/advpyneng-1/lecture-14/">Модуль logging (3ч)</a></td>
     <td align="center">--</td>
     <td align="center">--</td>
  </tr>
@@ -125,14 +125,14 @@ permalink: /course/
     <td rowspan="2" align="center">8</td>
     <td align="center">15</td>
     <td align="center">23.11.19</td>
-    <td>Основы аннотации типов (3ч)</td>
+    <td><a href="https://advpyneng.github.io/advpyneng-1/lecture-15/">Основы аннотации типов (3ч)</a></td>
     <td align="center">16.1, 16.2, 16.3</td>
     <td align="center">16.1, 16.2, 16.3</td>
  </tr>
  <tr>
     <td align="center">16</td>
     <td align="center">24.11.19</td>
-    <td>Автоматическое форматирование кода (2ч)</td>
+    <td><a href="https://advpyneng.github.io/advpyneng-1/lecture-16/">Автоматическое форматирование кода (2ч)</a></td>
     <td align="center">--</td>
     <td align="center">--</td>
  </tr>
@@ -140,7 +140,7 @@ permalink: /course/
     <td align="center">9</td>
     <td align="center">17</td>
     <td align="center">30.11.19</td>
-    <td>Завершающая лекция (2ч)</td>
+    <td><a href="https://advpyneng.github.io/advpyneng-1/lecture-17/">Завершающая лекция (2ч)</a></td>
     <td align="center"></td>
     <td align="center"></td>
  </tr>
