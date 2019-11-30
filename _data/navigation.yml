@@ -2,10 +2,10 @@
 main:
   - title: "Курс"
     url: /course/
-#  - title: "Выпускники"
-#    url: /alumni/
-#  - title: "Отзывы"
-#    url: /testimonials/
+  - title: "Выпускники"
+    url: /alumni/
+  - title: "Отзывы"
+    url: /testimonials/
   - title: "Записаться на курс"
     url: https://natenka.github.io/advanced-pyneng-online/
 #  - title: "Преподаватель"
