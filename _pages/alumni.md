@@ -13,7 +13,6 @@ comments: false
 2. **[Владислав Данилюк](https://advpyneng.github.io/alumni/Vladislav_Daniliuk)**
 3. **[Евгений Крылов-Алефиренко](https://advpyneng.github.io/alumni/Yauheni_Krylou)**
 4. [Александр Романов](https://advpyneng.github.io/alumni/Alexandr_Romanov)
-5. [Алексей Кузик](https://advpyneng.github.io/alumni/Alexey_Kuzik)
-6. **[Алексей Сидоров](https://advpyneng.github.io/alumni/Alexey_Sidorov)**
-7. [Денис Губин](https://advpyneng.github.io/alumni/Denis_Gubin)
+5. **[Алексей Сидоров](https://advpyneng.github.io/alumni/Alexey_Sidorov)**
+6. [Денис Губин](https://advpyneng.github.io/alumni/Denis_Gubin)
 
