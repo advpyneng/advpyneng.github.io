@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Advanced Python для сетевых инженеров"
+title                    : "Advanced Python for network engineers"
 title_separator          : "-"
 name                     : "Наташа Самойленко"
 description              : " "
