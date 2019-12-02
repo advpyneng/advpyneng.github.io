@@ -112,7 +112,7 @@ author:
 include:
   - .htaccess
   - _pages
-  - _certificates 
+  - certificates 
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -266,9 +266,9 @@ defaults:
       comments: true
       sidebar:
         nav: "docs"
-  # _certificates
+  # certificates
   - scope:
-      path: "_certificates"
+      path: "certificates"
       type: pages
     values:
       layout: certificate
