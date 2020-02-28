@@ -19,4 +19,6 @@ comments: false
 8. **[Алексей Леонтьев](https://advpyneng.github.io/alumni/Alexey_Leontiev)**
 9. **[Александр Розес](https://advpyneng.github.io/alumni/Alexander_Rozes)**
 10. [Евгений Лисовенко](https://advpyneng.github.io/alumni/Evgeny_Lisovenko)
+11. [Дмитрий Шмидт](https://advpyneng.github.io/alumni/Dmitriy_Shmidt)
+12. **[Сергей Ражик](https://advpyneng.github.io/alumni/Sergey_Razhik)**
 
