@@ -17,6 +17,8 @@ docs:
         url: /calendar/
 #      - title: Задания
 #        url: /docs/tasks/
+      - title: Сетевое оборудование
+        url: /docs/network_devices/
       - title: Как учиться
         url: /docs/learning/
   - title: Инструменты
