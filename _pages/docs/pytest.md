@@ -4,18 +4,8 @@ permalink: /docs/pytest/
 excerpt: "pytest"
 ---
 
-## Коротко о запуске тестов
-
-Самый важный нюанс это то как надо запускать тесты:
-
-* обязательно запускаем их с помощью pytest, а не python
-* тесты обязательно надо запускать из каталога заданий, а не из каталога tests: `pytest tests/test_task_1_1.py`
-
-## О тестах
-
-Для всех заданий курса есть тесты (кроме редких исключений). Для сдачи задания на проверку, задание должно проходить тест.
-
-Тесты помогают проверить все ли соответствует поставленной задаче, а также дают обратный отклик
+Начиная с раздела "Функции" (09_functions) для проверки заданий используются автоматические тесты.
+Они помогают проверить все ли соответствует поставленной задаче, а также дают обратный отклик
 по тому, что не соответствует задаче.
 Как правило, после первого периода адаптации к тестам, становится проще делать задания с тестами.
 
@@ -24,12 +14,15 @@ excerpt: "pytest"
 
 Для запуска тестов используется pytest - фреймворк для написания тестов.
 
-> [Запись лекции по использованию pytest для проверки заданий](https://youtu.be/R8vWoJ13MFM)
+> [Запись лекции по использованию pytest для проверки заданий](https://youtu.be/TI6-vFFV9lk)
+
+## Короткая шпаргалка по pytest
+
+[Шпаргалка по pytest для курса](https://pyneng.github.io/docs/pytest-cheatsheet/)
 
 ## Основы pytest
 
 [Основы pytest рассматриваются на отдельной странице](https://pyneng.github.io/docs/pytest-basics/)
-
 
 ## Особенности использования pytest для проверки заданий
 
@@ -48,9 +41,9 @@ excerpt: "pytest"
 При решении заданий, особенно, когда есть сомнения по поводу итогового формата данных,
 которые должны быть получены, лучше посмтреть в тест.
 Например, если задание task_9_1.py, то соответствующий тест будет в файле 
-tests/test_task_9_1.py.
+test_task_9_1.py.
 
-Пример теста tests/test_task_9_1.py:
+Пример теста test_task_9_1.py:
 
 ```python
 import pytest
@@ -117,8 +110,7 @@ def test_function_return_value():
 ### Как запускать тесты для проверки заданий
 
 Самое главное, это откуда надо запускать тесты: все тесты надо запускать из
-каталога с заданиями раздела, а не из каталога tests.
-Например, в разделе 09_functions, такая структура каталога с заданиями:
+каталога с заданиями раздела. Например, в разделе 09_functions, такая структура каталога с заданиями:
 
 ```
 [~/repos/pyneng-7/pyneng-online-may-aug-2019/exercises/09_functions]
@@ -137,14 +129,13 @@ $ tree
 ├── task_9_3a.py
 ├── task_9_3.py
 ├── task_9_4.py
-└── tests
-    ├── test_task_9_1a.py
-    ├── test_task_9_1.py
-    ├── test_task_9_2a.py
-    ├── test_task_9_2.py
-    ├── test_task_9_3a.py
-    ├── test_task_9_3.py
-    └── test_task_9_4.py
+├── test_task_9_1a.py
+├── test_task_9_1.py
+├── test_task_9_2a.py
+├── test_task_9_2.py
+├── test_task_9_3a.py
+├── test_task_9_3.py
+└── test_task_9_4.py
 ```
 
 Запускать тесты, в этом случае, надо из каталога 09_functions:
@@ -152,17 +143,16 @@ $ tree
 ```
 [~/repos/pyneng-7/pyneng-online-may-aug-2019/exercises/09_functions]
 vagrant: [master|✔]
-$ pytest tests/test_task_9_1.py
-=================================== test session starts ====================================
+$ pytest test_task_9_1.py
+========================= test session starts ==========================
 platform linux -- Python 3.7.3, pytest-4.6.2, py-1.5.2, pluggy-0.12.0
 rootdir: /home/vagrant/repos/pyneng-7/pyneng-online-may-aug-2019/exercises/09_functions
 collected 3 items
 
-tests/test_task_9_1.py ...                                                           [100%]
+test_task_9_1.py ...                                       [100%]
 ...
 ```
 
-> При запуске тестов из каталога tests, возникнут ошибки и тесты не будут выполняться.
 
 ### conftest.py
 
@@ -170,18 +160,22 @@ tests/test_task_9_1.py ...                                                      
 в котором можно писать функции (а точнее фикстуры) общие для раных тестов.
 Например, в этот файл вынесены функции, которые подключаются по SSH/Telnet к оборудованию.
 
+### pytest.ini
+
+Это конфигурационный файл pytest.
+
 ### Полезные команды
 
 Запуск одного теста:
 
 ```
-$ pytest tests/test_task_9_1.py
+$ pytest test_task_9_1.py
 ```
 
 Запуск одного теста с более подробным выводом информации (показывает diff между данными в тесте и тем, что получено из функции):
 
 ```
-$ pytest tests/test_task_9_1.py -vv
+$ pytest test_task_9_1.py -vv
 ```
 
 Запуск всех тестов одного раздела:
@@ -190,18 +184,18 @@ $ pytest tests/test_task_9_1.py -vv
 [~/repos/pyneng-7/pyneng-online-may-aug-2019/exercises/09_functions]
 vagrant: [master|✔]
 $ pytest
-=========================================== test session starts ============================================
+============================ test session starts =============================
 platform linux -- Python 3.6.3, pytest-4.6.2, py-1.5.2, pluggy-0.12.0
 rootdir: /home/vagrant/repos/pyneng-7/pyneng-online-may-aug-2019/exercises/09_functions
 collected 21 items
 
-tests/test_task_9_1.py ..F                                                                           [ 14%]
-tests/test_task_9_1a.py FFF                                                                          [ 28%]
-tests/test_task_9_2.py FFF                                                                           [ 42%]
-tests/test_task_9_2a.py FFF                                                                          [ 57%]
-tests/test_task_9_3.py FFF                                                                           [ 71%]
-tests/test_task_9_3a.py FFF                                                                          [ 85%]
-tests/test_task_9_4.py FFF                                                                           [100%]
+test_task_9_1.py ..F                                             [ 14%]
+test_task_9_1a.py FFF                                            [ 28%]
+test_task_9_2.py FFF                                             [ 42%]
+test_task_9_2a.py FFF                                            [ 57%]
+test_task_9_3.py FFF                                             [ 71%]
+test_task_9_3a.py FFF                                            [ 85%]
+test_task_9_4.py FFF                                             [100%]
 
 ...
 ```
