@@ -34,7 +34,7 @@ permalink: /course/
     <td align="center">3</td>
     <td align="center">4</td>
     <td align="center">19.09.20</td>
-    <td>Модуль logging (2ч)</td>
+    <td>Создание интерфейса CLI с click (3ч)</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">4</td>
@@ -51,7 +51,7 @@ permalink: /course/
     <td rowspan="2" align="center">5</td>
     <td align="center">7</td>
     <td align="center">03.10.20</td>
-    <td>Создание интерфейса CLI с click (3ч)</td>
+    <td>Модуль logging (2ч)</td>
  </tr>
  <tr>
     <td align="center">8</td>
