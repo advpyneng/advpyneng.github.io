@@ -3,7 +3,7 @@ title: "Репозиторий курса"
 permalink: /docs/pyneng-github/
 ---
 
-В [репозитории курса](https://github.com/pyneng/advpyneng-online-oct-nov-2019) выложены задания и примеры, которые будут рассматриваться на курсе.
+В [репозитории курса](https://github.com/pyneng/advpyneng-online-2-sep-nov-2020) выложены задания и примеры, которые будут рассматриваться на курсе.
 
 
 Перед тем, как читать дальше, прочитайте документы:
@@ -21,8 +21,8 @@ permalink: /docs/pyneng-github/
 
 Для копирования репозитория с GitHub, выполните команду git clone:
 ```
-$ git clone https://github.com/pyneng/advpyneng-online-oct-nov-2019
-Cloning into 'advpyneng-online-oct-nov-2019'...
+$ git clone https://github.com/pyneng/advpyneng-online-2-sep-nov-2020
+Cloning into 'advpyneng-online-2-sep-nov-2020'...
 remote: Counting objects: 500, done.
 remote: Compressing objects: 100% (41/41), done.
 remote: Total 500 (delta 20), reused 47 (delta 10), pack-reused 443
@@ -36,7 +36,7 @@ Resolving deltas: 100% (116/116), done.
 
 Если обновлений не было, вывод будет таким:
 ```
-$ cd advpyneng-online-oct-nov-2019/
+$ cd advpyneng-online-2-sep-nov-2020/
 
 $ git pull
 Already up-to-date.
@@ -49,7 +49,7 @@ remote: Counting objects: 3, done.
 remote: Compressing objects: 100% (1/1), done.
 remote: Total 3 (delta 2), reused 3 (delta 2), pack-reused 0
 Unpacking objects: 100% (3/3), done.
-From https://github.com/pyneng/advpyneng-online-oct-nov-2019
+From https://github.com/pyneng/advpyneng-online-2-sep-nov-2020
    49e9f1b..1eb82ad  master     -> origin/master
 Updating 49e9f1b..1eb82ad
 Fast-forward
