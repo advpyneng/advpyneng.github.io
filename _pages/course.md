@@ -43,7 +43,7 @@ permalink: /course/
     <td align="center">4</td>
     <td align="center">19.09.20</td>
     <td><a href="https://advpyneng.github.io/advpyneng-2/lecture-4/">Создание интерфейса CLI с click (3ч)</a></td>
-    <td align="center">3.1, 3.2, 3.2a, 3.2b, 3.2c</td>
+    <td align="center">3.1, 3.2, 3.2a, 3.2b, 3.2c, 3.3</td>
     <td align="center">3.1, 3.2, 3.2a</td>
  </tr>
  <tr>
