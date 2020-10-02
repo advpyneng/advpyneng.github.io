@@ -50,14 +50,14 @@ permalink: /course/
     <td rowspan="2" align="center">4</td>
     <td align="center">5</td>
     <td align="center">26.09.20</td>
-    <td>Основы pytest (2ч)</td>
+    <td><a href="https://advpyneng.github.io/advpyneng-2/lecture-5/">Основы pytest (2ч)</a></td>
     <td align="center">4.1, 4.2</td>
     <td align="center">4.1, 4.2</td>
  </tr>
  <tr>
     <td align="center">6</td>
     <td align="center">27.09.20</td>
-    <td>Тестирование кода и оборудования с помощью pytest (2ч)</td>
+    <td><a href="https://advpyneng.github.io/advpyneng-2/lecture-6/">Тестирование кода и оборудования с помощью pytest (2ч)</a></td>
     <td align="center">4.3</td>
     <td align="center">--</td>
  </tr>
