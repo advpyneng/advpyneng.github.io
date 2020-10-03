@@ -65,7 +65,7 @@ permalink: /course/
     <td rowspan="2" align="center">5</td>
     <td align="center">7</td>
     <td align="center">03.10.20</td>
-    <td>Модуль logging (2ч)</td>
+    <td><a href="https://advpyneng.github.io/advpyneng-2/lecture-7/">Модуль logging (2ч)</a></td>
     <td align="center">5.1, 5.2, 5.3</td>
     <td align="center">5.1, 5.2, 5.3</td>
  </tr>
