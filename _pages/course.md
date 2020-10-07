@@ -73,8 +73,8 @@ permalink: /course/
     <td align="center">8</td>
     <td align="center">04.10.20</td>
     <td><a href="https://advpyneng.github.io/advpyneng-2/lecture-8/">Closure. Основы декораторов (3ч)</a></td>
-    <td align="center">7.1, 7.2, 7.2a, 7.3, 8.1, 8.2</td>
-    <td align="center">7.1, 7.2, 7.3, 8.1, 8.2</td>
+    <td align="center">7.1, 7.2, 7.2a, 8.1, 8.2</td>
+    <td align="center">7.1, 7.2, 8.1, 8.2</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">6</td>
