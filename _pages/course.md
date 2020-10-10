@@ -80,14 +80,14 @@ permalink: /course/
     <td rowspan="2" align="center">6</td>
     <td align="center">9</td>
     <td align="center">10.10.20</td>
-    <td>Декораторы (2ч)</td>
+    <td><a href="https://advpyneng.github.io/advpyneng-2/lecture-9/">Декораторы с аргументами (2ч)</a></td>
     <td align="center">8.1, 8.2, 8.3</td>
     <td align="center">8.1, 8.2</td>
  </tr>
  <tr>
     <td align="center">10</td>
     <td align="center">11.10.20</td>
-    <td>Декораторы (2ч)</td>
+    <td>Декораторы классов (2ч)</td>
     <td align="center">8.4, 8.4a, 8.5, 8.5a, 8.6</td>
     <td align="center">8.4, 8.4a</td>
  </tr>
