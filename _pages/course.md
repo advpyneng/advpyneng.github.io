@@ -87,7 +87,7 @@ permalink: /course/
  <tr>
     <td align="center">10</td>
     <td align="center">11.10.20</td>
-    <td>Декораторы классов (2ч)</td>
+    <td><a href="https://advpyneng.github.io/advpyneng-2/lecture-10/">Декораторы классов (2ч)</a></td>
     <td align="center">8.4, 8.4a, 8.5, 8.5a, 8.6</td>
     <td align="center">8.4, 8.4a</td>
  </tr>
