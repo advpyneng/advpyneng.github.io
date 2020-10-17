@@ -95,7 +95,7 @@ permalink: /course/
     <td rowspan="2" align="center">7</td>
     <td align="center">11</td>
     <td align="center">17.10.20</td>
-    <td>ООП. Обзор основ (3ч)</td>
+    <td><a href="https://advpyneng.github.io/advpyneng-2/lecture-11/">ООП. Обзор основ (3ч)</a></td>
     <td align="center">9.1 9.2 10.1 10.2</td>
     <td align="center">9.1 9.2 10.1 10.2</td>
  </tr>
