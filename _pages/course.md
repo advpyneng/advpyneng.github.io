@@ -102,7 +102,7 @@ permalink: /course/
  <tr>
     <td align="center">12</td>
     <td align="center">18.10.20</td>
-    <td>ООП. classmethod, staticmethod, property (3ч)</td>
+    <td><a href="https://advpyneng.github.io/advpyneng-2/lecture-12/">ООП. classmethod, staticmethod, property (3ч)</a></td>
     <td align="center">11.1 11.1a 11.2 11.3</td>
     <td align="center">11.1 11.1a 11.2</td>
  </tr>
