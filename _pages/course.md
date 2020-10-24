@@ -111,15 +111,15 @@ permalink: /course/
     <td align="center">13</td>
     <td align="center">24.10.20</td>
     <td>ООП. Наследование (2ч)</td>
-    <td align="center">12.1 12.1a 12.2 12.3 12.3a 12.4 12.5</td>
-    <td align="center">12.1 12.3 12.4</td>
+    <td align="center">12.1 12.1a 12.4 12.5</td>
+    <td align="center">12.1 12.4</td>
  </tr>
  <tr>
     <td align="center">14</td>
     <td align="center">25.10.20</td>
     <td>ООП. ABC, Mixin, descriptor (3ч)</td>
-    <td align="center">--</td>
-    <td align="center">--</td>
+    <td align="center">12.1 12.1a 12.2 12.3 12.3a 12.4 12.5</td>
+    <td align="center">12.1 12.3 12.4</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">9</td>
