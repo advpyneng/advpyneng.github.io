@@ -125,7 +125,7 @@ permalink: /course/
     <td rowspan="2" align="center">9</td>
     <td align="center">15</td>
     <td align="center">31.10.20</td>
-    <td>Namedtuple, dataclass (3ч)</td>
+    <td><a href="https://advpyneng.github.io/advpyneng-2/lecture-15/">Namedtuple, dataclass (3ч)</a></td>
     <td align="center">13.1 13.2 13.3 13.4</td>
     <td align="center">13.1 13.2 13.3</td>
  </tr>
