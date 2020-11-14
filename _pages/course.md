@@ -132,7 +132,7 @@ permalink: /course/
  <tr>
     <td align="center">16</td>
     <td align="center">01.11.20</td>
-    <td><a href="https://advpyneng.github.io/advpyneng-2/lecture-16/">""Модуль collections (2ч)</a></td>
+    <td><a href="https://advpyneng.github.io/advpyneng-2/lecture-16/">Модуль collections (2ч)</a></td>
     <td align="center">--</td>
     <td align="center">--</td>
  </tr>
@@ -140,14 +140,14 @@ permalink: /course/
     <td rowspan="2" align="center">10</td>
     <td align="center">17</td>
     <td align="center">07.11.20</td>
-    <td><a href="https://advpyneng.github.io/advpyneng-2/lecture-17/">""Итератор, генератор (3ч)</a></td>
+    <td><a href="https://advpyneng.github.io/advpyneng-2/lecture-17/">Итератор, генератор (3ч)</a></td>
     <td align="center">14.1, 14.1a, 14.1b, 14.2, 14.3, 14.4</td>
     <td align="center">14.1, 14.1a, 14.2, 14.4</td>
  </tr>
  <tr>
     <td align="center">18</td>
     <td align="center">08.11.20</td>
-    <td><a href="https://advpyneng.github.io/advpyneng-2/lecture-18/">""Модуль itertools (3ч)</a></td>
+    <td><a href="https://advpyneng.github.io/advpyneng-2/lecture-18/">Модуль itertools (3ч)</a></td>
     <td align="center">--</td>
     <td align="center">--</td>
  </tr>
@@ -155,7 +155,7 @@ permalink: /course/
     <td rowspan="2" align="center">11</td>
     <td align="center">19</td>
     <td align="center">14.11.20</td>
-    <td>Asyncio. Основы (3ч)</td>
+    <td><a href="https://advpyneng.github.io/advpyneng-2/lecture-19/">Asyncio. Основы (3ч)</a></td>
     <td align="center">--</td>
     <td align="center">--</td>
  </tr>
