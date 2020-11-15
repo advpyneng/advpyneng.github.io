@@ -162,7 +162,7 @@ permalink: /course/
  <tr>
     <td align="center">20</td>
     <td align="center">15.11.20</td>
-    <td>Модули async (3ч)</td>
+    <td><a href="https://advpyneng.github.io/advpyneng-2/lecture-20/">Модули async (3ч)</a></td>
     <td align="center">17.1, 17.2, 17.3, 17.4, 17.5, 17.5a</td>
     <td align="center">17.1, 17.2, 17.3</td>
  </tr>
