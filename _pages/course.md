@@ -171,15 +171,15 @@ permalink: /course/
     <td align="center">21</td>
     <td align="center">21.11.20</td>
     <td>Использование asyncio (3ч)</td>
-    <td align="center">--</td>
-    <td align="center">--</td>
+    <td align="center">18.2, 18.3, 18.4, 18.5, 18.6</td>
+    <td align="center">18.2, 18.4</td>
  </tr>
  <tr>
     <td align="center">13</td>
     <td align="center">22</td>
     <td align="center">28.11.20</td>
     <td>Использование asyncio (3ч)</td>
-    <td align="center">18.1, 18.2, 18.3, 18.4, 18.5, 18.6</td>
+    <td align="center">18.1, 18.2, 18.3, 18.4, 18.5, 18.6, 18.7</td>
     <td align="center">18.1, 18.2, 18.4</td>
  </tr>
  <tr>
