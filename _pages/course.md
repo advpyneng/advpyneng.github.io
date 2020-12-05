@@ -170,7 +170,7 @@ permalink: /course/
     <td align="center">12</td>
     <td align="center">21</td>
     <td align="center">21.11.20</td>
-    <td>Использование asyncio (3ч)</td>
+    <td><a href="https://advpyneng.github.io/advpyneng-2/lecture-21/">Использование asyncio (3ч)</a></td>
     <td align="center">18.2, 18.3, 18.4, 18.5, 18.6</td>
     <td align="center">18.2, 18.4</td>
  </tr>
@@ -178,7 +178,7 @@ permalink: /course/
     <td align="center">13</td>
     <td align="center">22</td>
     <td align="center">28.11.20</td>
-    <td>Использование asyncio (3ч)</td>
+    <td><a href="https://advpyneng.github.io/advpyneng-2/lecture-22/">Использование asyncio (3ч)</a></td>
     <td align="center">18.1, 18.2, 18.3, 18.4, 18.5, 18.6, 18.7</td>
     <td align="center">18.1, 18.2, 18.4</td>
  </tr>
@@ -186,7 +186,7 @@ permalink: /course/
     <td align="center">14</td>
     <td align="center">23</td>
     <td align="center">05.12.20</td>
-    <td>Завершающая лекция (2ч)</td>
+    <td><a href="https://advpyneng.github.io/advpyneng-2/lecture-23/">Завершающая лекция (2ч)</a></td>
     <td align="center">--</td>
     <td align="center">--</td>
  </tr>
