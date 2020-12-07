@@ -26,3 +26,15 @@ comments: false
 15. **[Сергей Лысенко](https://advpyneng.github.io/alumni/Sergey_Lysenko)**
 16. **[Алексей Каранкевич](https://advpyneng.github.io/alumni/Aleksey_Karankevich)**
 
+
+## AdvPyNEng online 2. 5.09.20 - 05.12.20
+
+1. **[Павел Шеметов](https://advpyneng.github.io/alumni/Pavel_Shemetov)**
+2. **[Сергей Орлик](https://advpyneng.github.io/alumni/Sergey_Orlik)**
+3. **[Денис Гаврюшенко](https://advpyneng.github.io/alumni/Denis_Gavryushenko)**
+4. **[Егор Гомзин](https://advpyneng.github.io/alumni/Egor_Gomzin)**
+5. **[Андрей Ходаковский](https://advpyneng.github.io/alumni/Andrey_Khodakovskiy)**
+6. **[Юлия Романова](https://advpyneng.github.io/alumni/Julya_Romanova)**
+7. **[Николай Абросимов](https://advpyneng.github.io/alumni/Nikolay_Abrosimov)**
+
+
