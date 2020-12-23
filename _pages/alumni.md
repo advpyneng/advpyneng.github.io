@@ -16,6 +16,12 @@ comments: false
 5. **[Андрей Ходаковский](https://advpyneng.github.io/alumni/Andrey_Khodakovskiy)**
 6. **[Юлия Романова](https://advpyneng.github.io/alumni/Julya_Romanova)**
 7. **[Николай Абросимов](https://advpyneng.github.io/alumni/Nikolay_Abrosimov)**
+8. **[Андрей Черняков](https://advpyneng.github.io/alumni/Andrey_Chernyakov)**
+9. **[Никита Щинников](https://advpyneng.github.io/alumni/Nikita_Schinnikov)**
+10. **[Владимир Гвоздев](https://advpyneng.github.io/alumni/Vladimir_Gvozdev)**
+11. **[Андрей Колов](https://advpyneng.github.io/alumni/Andrey_Kolov)**
+12. [Станислав Терновский](https://advpyneng.github.io/alumni/Stanislau_Tsiarnouski)
+13. [Максим Хайнацкий](https://advpyneng.github.io/alumni/Maksim_Khainatskiy)
 
 
 ## AdvPyNEng online 1. 5.10.19 - 30.11.19
