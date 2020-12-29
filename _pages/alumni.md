@@ -23,6 +23,7 @@ comments: false
 12. **[Андрей Колов](https://advpyneng.github.io/alumni/Andrey_Kolov)**
 13. [Станислав Терновский](https://advpyneng.github.io/alumni/Stanislau_Tsiarnouski)
 14. [Максим Хайнацкий](https://advpyneng.github.io/alumni/Maksim_Khainatskiy)
+15. [Артем Уткин](https://advpyneng.github.io/alumni/Artem_Utkin)
 
 
 ## AdvPyNEng online 1. 5.10.19 - 30.11.19
