@@ -24,6 +24,9 @@ comments: false
 13. [Станислав Терновский](https://advpyneng.github.io/alumni/Stanislau_Tsiarnouski)
 14. [Максим Хайнацкий](https://advpyneng.github.io/alumni/Maksim_Khainatskiy)
 15. [Артем Уткин](https://advpyneng.github.io/alumni/Artem_Utkin)
+16. [Иннокентий Солнцев](https://advpyneng.github.io/alumni/Innokentiy_Solntsev)
+17. **[Игорь Беляков](https://advpyneng.github.io/alumni/Igor_Beliakov)**
+18. **[Кайрат Нисанов](https://advpyneng.github.io/alumni/Kairat_Nissanov)**
 
 
 ## AdvPyNEng online 1. 5.10.19 - 30.11.19
