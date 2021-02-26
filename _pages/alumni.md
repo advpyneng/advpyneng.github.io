@@ -27,6 +27,7 @@ comments: false
 16. [Иннокентий Солнцев](https://advpyneng.github.io/alumni/Innokentiy_Solntsev)
 17. **[Игорь Беляков](https://advpyneng.github.io/alumni/Igor_Beliakov)**
 18. **[Кайрат Нисанов](https://advpyneng.github.io/alumni/Kairat_Nissanov)**
+19. [Максим Крамаренко](https://advpyneng.github.io/alumni/Maksim_Kramarenko)
 
 
 ## AdvPyNEng online 1. 5.10.19 - 30.11.19
