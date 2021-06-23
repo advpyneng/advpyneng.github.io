@@ -29,6 +29,7 @@ comments: false
 18. **[Кайрат Нисанов](https://advpyneng.github.io/alumni/Kairat_Nissanov)**
 19. [Максим Крамаренко](https://advpyneng.github.io/alumni/Maksim_Kramarenko)
 20. [Владимир Панаскин](https://advpyneng.github.io/alumni/Vladimir_Panaskin)
+21. **[Алексей Лукиных](https://advpyneng.github.io/alumni/Aleksey_Lukinykh)**
 
 
 ## AdvPyNEng online 1. 5.10.19 - 30.11.19
