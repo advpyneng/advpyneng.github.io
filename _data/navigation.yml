@@ -45,3 +45,5 @@ docs:
     children:
       - title: AdvPyNEng 1
         url: /advpyneng-online-1/
+      - title: AdvPyNEng 2
+        url: /advpyneng-online-2/

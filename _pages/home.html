@@ -7,7 +7,7 @@ permalink: /
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% capture month %}{{ post.date | date: '%m' }}{% endcapture %}
   {% capture day %}{{ post.date | date: '%d' }}{% endcapture %}
-  {% if year == '2020' and month >= '06' %}
+  {% if category == "advpyneng-3" %}
   {% include archive-single.html %}
   {% endif %}
 {% endfor %}
